@@ -37,7 +37,7 @@ Hassan Nasir hn842215@gmail.com
 
 This is how it looks
 
-After installation makes sure you use either intel x64 or x86. Then just hit play this is
+After installation makes sure you use either intel x64 or x86 for intel and apple silicon for silicon mac. Then just hit play this is
 different for silicon macs for silicon mac you will need to install from the website the one
 linked previously but it's pretty much the same.
 Finally you just setup windows 11 make sure you use a usb or something it take alot of
